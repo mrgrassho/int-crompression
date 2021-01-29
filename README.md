@@ -1,3 +1,5 @@
-# int-crompression
+# VarIntGB vs VarIntG8IU
 
-![alt text]('Untitled\ Diagram.png')
+Ejemplos y explicación de como funcionan ambos compresores de enteros.
+
+![alt text](int-comp.png)
